@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "auth_session.Common/1.0.0": {
+        "runtime": {
+          "auth_session.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "auth_session.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

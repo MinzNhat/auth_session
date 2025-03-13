@@ -1,0 +1,17 @@
+D:\Minh Nhật\auth_session\auth_session.Infrastructure\bin\Debug\net9.0\auth_session.Infrastructure.deps.json
+D:\Minh Nhật\auth_session\auth_session.Infrastructure\bin\Debug\net9.0\auth_session.Infrastructure.dll
+D:\Minh Nhật\auth_session\auth_session.Infrastructure\bin\Debug\net9.0\auth_session.Infrastructure.pdb
+D:\Minh Nhật\auth_session\auth_session.Infrastructure\bin\Debug\net9.0\auth_session.Common.dll
+D:\Minh Nhật\auth_session\auth_session.Infrastructure\bin\Debug\net9.0\auth_session.Core.dll
+D:\Minh Nhật\auth_session\auth_session.Infrastructure\bin\Debug\net9.0\auth_session.Core.pdb
+D:\Minh Nhật\auth_session\auth_session.Infrastructure\bin\Debug\net9.0\auth_session.Common.pdb
+D:\Minh Nhật\auth_session\auth_session.Infrastructure\obj\Debug\net9.0\auth_session.Infrastructure.csproj.AssemblyReference.cache
+D:\Minh Nhật\auth_session\auth_session.Infrastructure\obj\Debug\net9.0\auth_session.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Minh Nhật\auth_session\auth_session.Infrastructure\obj\Debug\net9.0\auth_session.Infrastructure.AssemblyInfoInputs.cache
+D:\Minh Nhật\auth_session\auth_session.Infrastructure\obj\Debug\net9.0\auth_session.Infrastructure.AssemblyInfo.cs
+D:\Minh Nhật\auth_session\auth_session.Infrastructure\obj\Debug\net9.0\auth_session.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Minh Nhật\auth_session\auth_session.Infrastructure\obj\Debug\net9.0\auth_ses.77C12BC4.Up2Date
+D:\Minh Nhật\auth_session\auth_session.Infrastructure\obj\Debug\net9.0\auth_session.Infrastructure.dll
+D:\Minh Nhật\auth_session\auth_session.Infrastructure\obj\Debug\net9.0\refint\auth_session.Infrastructure.dll
+D:\Minh Nhật\auth_session\auth_session.Infrastructure\obj\Debug\net9.0\auth_session.Infrastructure.pdb
+D:\Minh Nhật\auth_session\auth_session.Infrastructure\obj\Debug\net9.0\ref\auth_session.Infrastructure.dll

@@ -1,0 +1,5 @@
+*.env
+auth_session.API/.env
+
+*.sh
+!auth_session.Command/Linux_MacOS/run.sh

@@ -1,0 +1,6 @@
+@auth_session.API_HostAddress = http://localhost:5259
+
+GET {{auth_session.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

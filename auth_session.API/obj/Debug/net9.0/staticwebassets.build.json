@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "OioE1mC12FWbMgcOKKNR1tUUAscLoaKmhEbopQEmImI=",
+  "Source": "auth_session.API",
+  "BasePath": "_content/auth_session.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
