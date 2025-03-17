@@ -13,19 +13,12 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-
+app.UseCors("AllowFrontend");
 // Middleware
 app.UseSession();
 app.UseMiddleware<ExceptionMiddleware>();
 app.UseMiddleware<RememberMeMiddleware>();
 app.UseMiddleware<AuthMiddleware>();
-
-// Cors for FE
-app.UseCors(policy =>
-    policy.AllowAnyOrigin()
-          .AllowAnyMethod()
-          .AllowAnyHeader());
-
 app.UseAuthorization();
 app.MapControllers();
 app.Run();

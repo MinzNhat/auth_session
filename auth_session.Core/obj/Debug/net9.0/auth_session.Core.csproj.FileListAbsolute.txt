@@ -6,6 +6,7 @@ D:\Minh Nhật\auth_session\auth_session.Core\obj\Debug\net9.0\auth_session.Core
 D:\Minh Nhật\auth_session\auth_session.Core\obj\Debug\net9.0\auth_session.Core.AssemblyInfoInputs.cache
 D:\Minh Nhật\auth_session\auth_session.Core\obj\Debug\net9.0\auth_session.Core.AssemblyInfo.cs
 D:\Minh Nhật\auth_session\auth_session.Core\obj\Debug\net9.0\auth_session.Core.csproj.CoreCompileInputs.cache
+D:\Minh Nhật\auth_session\auth_session.Core\obj\Debug\net9.0\auth_session.Core.sourcelink.json
 D:\Minh Nhật\auth_session\auth_session.Core\obj\Debug\net9.0\auth_session.Core.dll
 D:\Minh Nhật\auth_session\auth_session.Core\obj\Debug\net9.0\refint\auth_session.Core.dll
 D:\Minh Nhật\auth_session\auth_session.Core\obj\Debug\net9.0\auth_session.Core.pdb

@@ -10,6 +10,7 @@ D:\Minh Nhật\auth_session\auth_session.Infrastructure\obj\Debug\net9.0\auth_se
 D:\Minh Nhật\auth_session\auth_session.Infrastructure\obj\Debug\net9.0\auth_session.Infrastructure.AssemblyInfoInputs.cache
 D:\Minh Nhật\auth_session\auth_session.Infrastructure\obj\Debug\net9.0\auth_session.Infrastructure.AssemblyInfo.cs
 D:\Minh Nhật\auth_session\auth_session.Infrastructure\obj\Debug\net9.0\auth_session.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Minh Nhật\auth_session\auth_session.Infrastructure\obj\Debug\net9.0\auth_session.Infrastructure.sourcelink.json
 D:\Minh Nhật\auth_session\auth_session.Infrastructure\obj\Debug\net9.0\auth_ses.77C12BC4.Up2Date
 D:\Minh Nhật\auth_session\auth_session.Infrastructure\obj\Debug\net9.0\auth_session.Infrastructure.dll
 D:\Minh Nhật\auth_session\auth_session.Infrastructure\obj\Debug\net9.0\refint\auth_session.Infrastructure.dll

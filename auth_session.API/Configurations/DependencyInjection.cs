@@ -64,6 +64,19 @@ namespace auth_session.API.Configurations
             services.AddEndpointsApiExplorer();
             services.AddSwaggerGen();
 
+            // CORs
+            services.AddCors(options =>
+            {
+                options.AddPolicy("AllowFrontend",
+                    builder =>
+                    {
+                        builder.WithOrigins("http://localhost:4200")
+                            .AllowAnyMethod()
+                            .AllowAnyHeader()
+                            .AllowCredentials();
+                    });
+            });
+
             return services;
         }
     }

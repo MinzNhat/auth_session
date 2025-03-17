@@ -161,6 +161,7 @@ D:\Minh Nhật\auth_session\auth_session.API\obj\Debug\net9.0\auth_session.API.A
 D:\Minh Nhật\auth_session\auth_session.API\obj\Debug\net9.0\auth_session.API.csproj.CoreCompileInputs.cache
 D:\Minh Nhật\auth_session\auth_session.API\obj\Debug\net9.0\auth_session.API.MvcApplicationPartsAssemblyInfo.cs
 D:\Minh Nhật\auth_session\auth_session.API\obj\Debug\net9.0\auth_session.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Minh Nhật\auth_session\auth_session.API\obj\Debug\net9.0\auth_session.API.sourcelink.json
 D:\Minh Nhật\auth_session\auth_session.API\obj\Debug\net9.0\scopedcss\bundle\auth_session.API.styles.css
 D:\Minh Nhật\auth_session\auth_session.API\obj\Debug\net9.0\staticwebassets.build.json
 D:\Minh Nhật\auth_session\auth_session.API\obj\Debug\net9.0\staticwebassets.development.json
