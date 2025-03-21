@@ -8,6 +8,7 @@ namespace auth_session.Core.Interfaces.Auth
         Task<string> RegisterAsync(string username, string password, UserRole role);
         Task<string> ChangePasswordAsync(string old_password, string new_password);
         Task<User?> GetByIdAsync(int id);
+        Task<User?> GetUserInfoAsync();
         Task<string> DeleteAsync(int id);
         Task<List<User>> GetAllAsync();
     }

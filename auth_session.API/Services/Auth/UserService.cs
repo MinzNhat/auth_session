@@ -63,6 +63,22 @@ namespace auth_session.API.Services.Auth
             return await _userRepository.GetByIdAsync(id);
         }
 
+        public async Task<User?> GetUserInfoAsync()
+        {
+            if (_httpContextAccessor.HttpContext == null)
+            {
+                throw new UnauthorizedAccessException();
+            }
+
+            string userIdString = _httpContextAccessor.HttpContext.Session.GetString("UserId") ?? throw new Exception("UserId not found in session");
+            if (!int.TryParse(userIdString, out int userId))
+            {
+                throw new Exception("Invalid UserId");
+            }
+
+            return await _userRepository.GetByIdAsync(userId);
+        }
+
         public async Task<List<User>> GetAllAsync()
         {
             return await _userRepository.GetAllAsync();

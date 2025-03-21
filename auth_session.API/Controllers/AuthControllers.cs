@@ -47,6 +47,16 @@ namespace auth_session.API.Controllers
             return Ok(new Response<UserDto>(userDto, message: "Get user successfully"));
         }
 
+        [HttpGet("get_info")]
+        public async Task<IActionResult> GetUserInfo()
+        {
+            var user = await _userService.GetUserInfoAsync();
+            if (user == null) return NotFound(new Response<string>(error: "User not found"));
+
+            var userDto = new UserDto(user.Id, user.Username, user.Role, user.CreatedAt, user.IsActive);
+            return Ok(new Response<UserDto>(userDto, message: "Get user info successfully"));
+        }
+
         [HttpDelete("{id}")]
         public async Task<IActionResult> Delete(int id)
         {
